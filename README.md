@@ -1,7 +1,1 @@
-OPIUM*
-
-[![My Skills](https://skillicons.dev/icons?i=ts,java,lua,svelte,mongodb,tailwind,express)](https://skillicons.dev)
-
-Some tools I use to accomplish my goals:
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,vercel,vscode,idea,git,cloudflare,)](https://skillicons.dev)
+<img src="https://preview.redd.it/my-quick-lil-rework-of-the-opium-logo-to-reincorporate-the-v0-bpovr09tfkob1.jpg?auto=webp&s=c720faa763f841aeef7bec84161ece755b538290" width="200" height="200">
