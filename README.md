@@ -1,8 +1,4 @@
-### I'm Azonix.
-
-I make things, maybe you've used them.
-
-Some tools & frameworks I'm learning/using:
+OPIUM*
 
 [![My Skills](https://skillicons.dev/icons?i=ts,java,lua,svelte,mongodb,tailwind,express)](https://skillicons.dev)
 
